@@ -142,6 +142,8 @@ client.close()
 ~~~
 OUTPUT:
 
+
+
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
 
